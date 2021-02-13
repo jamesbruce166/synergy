@@ -2,6 +2,10 @@
     <h1>Synergy - A Redis based distributed job scheduler</h1>
 </div>
 
+<div align="center"> 
+    <h2>Still In Development</h2>
+</div>
+
 <h2> Usage </h2>
 
 <h3> Setup </h3>
